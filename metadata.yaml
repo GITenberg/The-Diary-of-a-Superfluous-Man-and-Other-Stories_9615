@@ -1,0 +1,44 @@
+_repo: The-Diary-of-a-Superfluous-Man-and-Other-Stories_9615
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Garnett, Constance
+    alias: Black, Constance Clara
+    birthdate: 1861
+    deathdate: 1946
+    gutenberg_agent_id: '2858'
+    url: http://www.gutenberg.org/2009/agents/2858
+    wikipedia:
+    - http://www.womenofbrighton.co.uk/constanceblackgarnett.htm
+    - http://en.wikipedia.org/wiki/Constance_Garnett
+creator:
+  author:
+    agent_name: Turgenev, Ivan Sergeevich
+    aliases:
+    - Turgénieff, Iván
+    - Tourgueneff, Ivan
+    - Тургенев, Иван Сергеевич
+    birthdate: 1818
+    deathdate: 1883
+    gutenberg_agent_id: '922'
+    url: http://www.gutenberg.org/2009/agents/922
+    wikipedia: http://en.wikipedia.org/wiki/Ivan_Turgenev
+description: ''
+gutenberg_issued: '2006-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '9615'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Turgenev, Ivan Sergeevich, 1818-1883 -- Translations into English'
+- !lcsh 'Diary fiction'
+- !lcc 'PG'
+- !lcsh 'Russia -- Social life and customs -- Fiction'
+- GITenberg
+tableOfContents: The diary of a superfluous man -- A tour in the forest -- Yakov Pasinkov
+  -- Andrei Kolosov -- A correspondence.
+title: The Diary of a Superfluous Man and Other Stories
+url: http://www.gutenberg.org/ebooks/9615
